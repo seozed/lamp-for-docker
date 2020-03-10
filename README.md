@@ -9,3 +9,4 @@ docker版lamp
 
 # 快速启动
 `docker-compose -f "docker-compose.yml" up`
+![](https://img2020.cnblogs.com/blog/1446506/202003/1446506-20200310180212108-1429648412.jpg)
